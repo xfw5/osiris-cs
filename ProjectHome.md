@@ -1,0 +1,1 @@
+Osiris CS is a roleplaying and combat system designed for use in Second Life.  Back-end code is written in Coldfusion and in-world code in LSL.
